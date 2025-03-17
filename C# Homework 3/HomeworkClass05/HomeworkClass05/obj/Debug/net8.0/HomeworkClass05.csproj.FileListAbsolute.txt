@@ -1,0 +1,14 @@
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\bin\Debug\net8.0\HomeworkClass05.exe
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\bin\Debug\net8.0\HomeworkClass05.deps.json
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\bin\Debug\net8.0\HomeworkClass05.runtimeconfig.json
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\bin\Debug\net8.0\HomeworkClass05.dll
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\bin\Debug\net8.0\HomeworkClass05.pdb
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.AssemblyInfoInputs.cache
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.AssemblyInfo.cs
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.csproj.CoreCompileInputs.cache
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.dll
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\refint\HomeworkClass05.dll
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.pdb
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\HomeworkClass05.genruntimeconfig.cache
+C:\Users\Iccan\Documents\Repos\HomeworkClass05\HomeworkClass05\obj\Debug\net8.0\ref\HomeworkClass05.dll
