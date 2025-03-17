@@ -1,0 +1,14 @@
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.AssemblyInfoInputs.cache
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.AssemblyInfo.cs
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.csproj.CoreCompileInputs.cache
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\bin\Debug\net8.0\Class06ExerciseHW.exe
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\bin\Debug\net8.0\Class06ExerciseHW.deps.json
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\bin\Debug\net8.0\Class06ExerciseHW.runtimeconfig.json
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\bin\Debug\net8.0\Class06ExerciseHW.dll
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\bin\Debug\net8.0\Class06ExerciseHW.pdb
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.dll
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\refint\Class06ExerciseHW.dll
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.pdb
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\Class06ExerciseHW.genruntimeconfig.cache
+C:\Users\Iccan\Documents\Repos\Class06ExerciseHW\Class06ExerciseHW\obj\Debug\net8.0\ref\Class06ExerciseHW.dll

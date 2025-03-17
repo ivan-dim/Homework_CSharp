@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|c:\\users\\iccan\\documents\\repos\\class06exercisehw\\class06exercisehw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|solutionrelative:class06exercisehw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|c:\\users\\iccan\\documents\\repos\\class06exercisehw\\class06exercisehw\\racemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|solutionrelative:class06exercisehw\\racemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|c:\\users\\iccan\\documents\\repos\\class06exercisehw\\class06exercisehw\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|solutionrelative:class06exercisehw\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|c:\\users\\iccan\\documents\\repos\\class06exercisehw\\class06exercisehw\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B326A-ABA5-4465-9D28-21D1CF5116BC}|Class06ExerciseHW\\Class06ExerciseHW.csproj|solutionrelative:class06exercisehw\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaceManager.cs",
+              "DocumentMoniker": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\RaceManager.cs",
+              "RelativeDocumentMoniker": "Class06ExerciseHW\\RaceManager.cs",
+              "ToolTip": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\RaceManager.cs",
+              "RelativeToolTip": "Class06ExerciseHW\\RaceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:08:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\Car.cs",
+              "RelativeDocumentMoniker": "Class06ExerciseHW\\Car.cs",
+              "ToolTip": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\Car.cs",
+              "RelativeToolTip": "Class06ExerciseHW\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:08:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\Driver.cs",
+              "RelativeDocumentMoniker": "Class06ExerciseHW\\Driver.cs",
+              "ToolTip": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\Driver.cs",
+              "RelativeToolTip": "Class06ExerciseHW\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:08:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\Program.cs",
+              "RelativeDocumentMoniker": "Class06ExerciseHW\\Program.cs",
+              "ToolTip": "C:\\Users\\Iccan\\Documents\\Repos\\Class06ExerciseHW\\Class06ExerciseHW\\Program.cs",
+              "RelativeToolTip": "Class06ExerciseHW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:08:13.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
